@@ -7,7 +7,7 @@
     {
       "name": "ew-skills",
       "version": "1.0.0",
-      "source": "./",
+      "source": "./ew",
       "description": "Experience Workspace skills for Adobe Coworker. Provides document authoring utilities runnable in the AO sandbox."
     }
   ]
