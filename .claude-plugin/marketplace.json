@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "name": "EW Skills Marketplace",
+    "pluginRoot": ""
+  },
+  "plugins": [
+    {
+      "name": "ew-skills",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Experience Workspace skills for Adobe Coworker. Provides document authoring utilities runnable in the AO sandbox."
+    }
+  ]
+}
